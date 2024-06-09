@@ -2,7 +2,7 @@
 
 # ECG Monitoring and Transmission
 
-This project involves designing a circuit for wireless ECG signal capture, transmitting the data using an ESP‐32 microcontroller, post-processing the data in MATLAB for accurate average heart rate calculation, and integrating machine learning for disease prediction.
+This project involves the development of an ECG monitoring system using an ESP32 microcontroller for data acquisition and transmission, along with MATLAB scripts for data analysis and visualization. The system is designed to monitor the electrical activity of the heart, save the data, and perform signal processing to determine the heart rate. Finally integrating machine learning for disease for disease prediction based on the ECG data. 
 
 ## Directory Structure
 
